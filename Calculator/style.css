@@ -1,0 +1,30 @@
+.mainForm {
+    width: 200px;
+    height: 70px;
+    background-color: gainsboro;
+    border: 3px solid darkgrey;
+}
+
+#value {
+    width: 186px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#result {
+    position: relative;
+    width: 186px;
+    margin-left: 5px;
+    top: 80px;
+    margin-bottom: 5px;
+}
+
+.calculate {
+    width: 60px;
+    height: 25px;
+    margin-right: 1px;
+}
+
+#buttons {
+    margin-top: 10px;
+}
